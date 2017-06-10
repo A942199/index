@@ -1,0 +1,2 @@
+# index
+Cat's blog
